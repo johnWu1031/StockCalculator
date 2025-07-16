@@ -9,8 +9,9 @@ cd folder/\
 python StockCalculator.py
 
 ## Build:
+cd folder/\
 pyinstaller --onefile --noconsole StockCalculator.py\
-cd folder/dist/\
+cd dist/\
 Execute StockCalculator.exe
 
 ## Git update
