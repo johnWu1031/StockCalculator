@@ -1,4 +1,4 @@
-#StockCalculator
+# StockCalculator
 
 ## Install Tool:
 pip install openpyxl
