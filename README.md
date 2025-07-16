@@ -11,8 +11,8 @@ python StockCalculator.py
 pyinstaller --onefile --noconsole StockCalculator.py
 
 ## Git update
-1.git init\
-2.git status\
-3.git add . or git add StockCalculator.py\
-4.git commit -m "update message"\
-5.git push or git push origin main
+git init\
+git status\
+git add . or git add StockCalculator.py\
+git commit -m "update message"\
+git push or git push origin main
