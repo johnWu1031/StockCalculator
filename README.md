@@ -5,10 +5,13 @@ pip install openpyxl\
 pip install pyinstaller
 
 ## Compile:
+cd folder/\
 python StockCalculator.py
 
 ## Build:
-pyinstaller --onefile --noconsole StockCalculator.py
+pyinstaller --onefile --noconsole StockCalculator.py\
+cd folder/dist/\
+Execute StockCalculator.exe
 
 ## Git update
 git init\
